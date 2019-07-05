@@ -1,0 +1,40 @@
+{
+    "jobs": [
+        {
+            "title": "First Job",
+            "company": "First Company",
+            "city": "First City",
+            "available": "true"
+        },
+        {
+            "title": "Second Job",
+            "company": "Second Company",
+            "city": "Second City",
+            "available": "true"
+        },
+        {
+            "title": "Third Job",
+            "company": "Third Company",
+            "city": "Stuttgart",
+            "available": "true"
+        },
+        {
+            "title": "JS Developer Job",
+            "company": "D-Mind",
+            "city": "Stuttgart",
+            "available": "true"
+        },
+        {
+            "title": "Front End Developer Job",
+            "company": "D-Mind",
+            "city": "Moscow",
+            "available": "true"
+        },
+        {
+            "title": "Data Analyst",
+            "company": "D-Mind",
+            "city": "Miami, FL",
+            "available": "true"
+        }
+    ]
+}
